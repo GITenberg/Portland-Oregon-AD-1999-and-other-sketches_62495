@@ -1,5 +1,8 @@
 _repo: Portland-Oregon-AD-1999-and-other-sketches_62495
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62495-h/images/cover.jpg
 creator:
   author:
     agent_name: Hayes, J. W. (Jeff W.)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48852'
     url: http://www.gutenberg.org/2009/agents/48852
 description: 'Also published under title: Paradise on Earth.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62495#Portland-Oregon-AD-1999-and-other-sketches
 gutenberg_issued: '2020-06-27'
 gutenberg_type: Text
 identifiers:
